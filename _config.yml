@@ -1,6 +1,4 @@
-
-
-
+theme: jekyll-theme-leaf
 
 plugins:
  - jekyll-feed

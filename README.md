@@ -12,13 +12,13 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "leaf"
+gem "jekyll-theme-leaf"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: leaf
+theme: jekyll-theme-leaf
 ```
 
 And then execute:
@@ -27,7 +27,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install leaf
+    $ gem install jekyll-theme-leaf
 
 ## Usage
 
