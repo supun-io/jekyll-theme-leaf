@@ -17,7 +17,7 @@
 }
 
 .post-content {
-    h1, h2, h3 { margin-top: $spacing-unit * 2 }
+    h1, h2, h3 { margin-top: $spacing-unit }
     h4, h5, h6 { margin-top: $spacing-unit }
 
     h2 {
@@ -55,9 +55,16 @@ article, .comments, .box {
     border-radius: 20px;
     box-shadow: 0 0 40px rgba(0,0,0,0.5);
     margin: 25px 0;
+    @include media-query($on-mobile) {
+        padding: 0;
+        background: transparent;
+        box-shadow: none;
+    }
 }
 .comments {
-    padding:15px $spacing-unit;
+    @media screen and (min-width: $on-mobile) {
+        padding:15px $spacing-unit;
+    }
 }
 
 .page-content {

@@ -1,8 +1,8 @@
 title: Leaf Blog
 iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
-hyvor_talk_website_id: 14
 
+# for a clean URL
 permalink: :slug
 
 social:
@@ -12,3 +12,7 @@ social:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+### comments & analytics
+hyvor_talk_website_id: YOUR_WEBSITE_ID
+google_analytics: UA-NNNNNNNN-N

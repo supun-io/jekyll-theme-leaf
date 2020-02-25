@@ -104,9 +104,18 @@ main {
   display: block; // IE fix
 }
 
+// images
 img {
   max-width: 100%;
   vertical-align: middle;
+}
+
+p {
+  img:first-child:last-child {
+    border-radius:10px;
+    margin:20px 0;
+    box-shadow: 0 0 30px rgba(0,0,0,.1);
+  }
 }
 
 // fig
@@ -132,7 +141,8 @@ li {
 
 // headings
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+  font-weight: 600;
+  color:#fff;
 }
 
 a {
@@ -150,37 +160,36 @@ a {
 }
 
 blockquote {
-  border-left: 4px solid $theme-color;
+  border-left: 10px solid $theme-color;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);
   letter-spacing: -1px;
-  font-style: italic;
-
+  margin: $spacing-unit 0;
+  padding: 15px;
+  border-radius: 10px;;
+  background-color: change-color($color: $theme-color, $alpha: 0.1);
   > :last-child {
     margin-bottom: 0;
   }
 }
 
-/* table {
+table {
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: left;
   border-collapse: collapse;
-  border: 1px solid $table-border-color;
+  border-radius: 10px;
+  overflow: hidden;
   tr {
     &:nth-child(even) {
-      background-color: $table-zebra-color;
+      background-color: #3c3c3c;
     }
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: $table-header-bg-color;
-    border: 1px solid $table-header-border;
-  }
-  td {
-    border: 1px solid $table-border-color;
+    background-color: #454545;
   }
 
   @include media-query($on-laptop) {
@@ -189,4 +198,4 @@ blockquote {
     -webkit-overflow-scrolling: touch;
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
-} */
+}

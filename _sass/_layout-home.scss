@@ -5,7 +5,7 @@
         color: inherit;
         display:block;
         padding: $spacing-unit;
-        transition: .3s;
+        transition: .3s background-color;
         &:not(:last-child) {
             border-bottom:1px solid $header-color;
         }

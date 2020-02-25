@@ -1,18 +1,10 @@
 ---
-title: About Me
+title: About
 layout: page
 ---
 
-Hey! I'm Supun Kavinda, a human!
+Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
 
-I'm also a
+You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
 
-* Web Developer
-* Table Tennis Player
-* Flutist & Pianist
-
-I'm learning
-
-* Physics (Major)
-* Machine Learning
-* Guitar
+(Change this by editing `about.md` file)
