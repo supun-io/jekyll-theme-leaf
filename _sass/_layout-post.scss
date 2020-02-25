@@ -49,10 +49,17 @@
 }
 
 
-article {
+article, .comments, .box {
     padding: $spacing-unit;
-    background: #272726;
+    background: $content-color;
     border-radius: 20px;
     box-shadow: 0 0 40px rgba(0,0,0,0.5);
     margin: 25px 0;
+}
+.comments {
+    padding:15px $spacing-unit;
+}
+
+.page-content {
+    margin-top: 80px;
 }

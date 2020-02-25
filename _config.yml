@@ -1,4 +1,13 @@
+title: Leaf Blog
+iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
+hyvor_talk_website_id: 14
+
+permalink: :slug
+
+social:
+  twitter: _SupunKavinda
+  github: SupunKavinda
 
 plugins:
  - jekyll-feed

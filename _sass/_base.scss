@@ -6,6 +6,10 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   
 
@@ -81,7 +85,7 @@ code {
     padding: 8px 12px;
     overflow-x: auto;
     padding: 20px;
-    background: #0f0f0f;
+    background: $header-color;
     border-radius: 20px;
  
     > code {
@@ -90,3 +94,99 @@ code {
         padding-left: 0;
     }
 }
+
+hr {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+}
+
+main {
+  display: block; // IE fix
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+// fig
+figure > img {
+  display: block;
+}
+
+figcaption {
+  font-size: $small-font-size;
+}
+
+// lists
+ul, ol {
+  margin-left: $spacing-unit;
+}
+
+li {
+  > ul,
+  > ol {
+    margin-bottom: 0;
+  }
+}
+
+// headings
+h1, h2, h3, h4, h5, h6 {
+  font-weight: $base-font-weight;
+}
+
+a {
+  color: $theme-color;
+  text-decoration: none;
+
+  &:visited {
+    // color: $link-visited-color;
+  }
+
+  &:hover {
+    // color: $text-color;
+    text-decoration: underline;
+  }
+}
+
+blockquote {
+  border-left: 4px solid $theme-color;
+  padding-left: $spacing-unit / 2;
+  @include relative-font-size(1.125);
+  letter-spacing: -1px;
+  font-style: italic;
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+/* table {
+  margin-bottom: $spacing-unit;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+  border: 1px solid $table-border-color;
+  tr {
+    &:nth-child(even) {
+      background-color: $table-zebra-color;
+    }
+  }
+  th, td {
+    padding: ($spacing-unit / 3) ($spacing-unit / 2);
+  }
+  th {
+    background-color: $table-header-bg-color;
+    border: 1px solid $table-header-border;
+  }
+  td {
+    border: 1px solid $table-border-color;
+  }
+
+  @include media-query($on-laptop) {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+            -ms-overflow-style: -ms-autohiding-scrollbar;
+  }
+} */
