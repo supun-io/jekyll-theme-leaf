@@ -1,4 +1,4 @@
-title: Leaf Blog
+title: nʇʞn's Blog
 iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
 
@@ -6,8 +6,8 @@ theme: jekyll-theme-leaf
 permalink: :slug
 
 social:
-  twitter: _SupunKavinda
-  github: SupunKavinda
+  twitter: Rhotav
+  github: Rhotav
 
 plugins:
  - jekyll-feed
