@@ -5,6 +5,11 @@ theme: jekyll-theme-leaf
 # for a clean URL
 permalink: :slug
 
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
+
+
 social:
   twitter: Rhotav
   github: Rhotav
