@@ -1,6 +1,6 @@
 title: nʇʞn's Blog
 iconURL: assets/default-icon.png
-theme: jekyll-theme-leaf
+theme: blog
 
 # for a clean URL
 permalink: :slug
