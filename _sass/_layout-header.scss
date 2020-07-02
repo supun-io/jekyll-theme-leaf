@@ -28,10 +28,12 @@
 }
 
 .site-icon {
-    position: absolute;
+    display: block;
     left: 50%;
     top: 100%;
     margin-top: -47px;
+    margin-left: auto;
+    margin-right: auto;
     width: 70px;
     height: 70px;
     padding: 14px;
