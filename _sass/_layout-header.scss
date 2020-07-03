@@ -123,20 +123,5 @@
         .menu-icon {
             display: none;
         }
-
-        input ~ .trigger {
-            display: block;
-            height:100%;
-        }
-
-        .page-link {
-            display: inline-flex;
-            align-items:center;
-            height:100%;
-            &.active {
-              background-color:$theme-color;
-              color:$header-color;
-            }
-        }
     }
   }
