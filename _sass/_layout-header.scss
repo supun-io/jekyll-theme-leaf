@@ -108,4 +108,35 @@
 
     }
   
+    @media screen and (min-width: $on-laptop) { 
+        flex:1;
+        position: static;
+        float: right;
+        border: none;
+        background-color: inherit;
+        height:100%;
+  
+        label[for="nav-trigger"] {
+            display: none;
+        }
+
+        .menu-icon {
+            display: none;
+        }
+
+        input ~ .trigger {
+            display: block;
+            height:100%;
+        }
+
+        .page-link {
+            display: inline-flex;
+            align-items:center;
+            height:100%;
+            &.active {
+              background-color:$theme-color;
+              color:$header-color;
+            }
+        }
+    }
   }
