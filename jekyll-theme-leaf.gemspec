@@ -1,4 +1,7 @@
 # frozen_string_literal: true
+gem "jekyll-theme-leaf"
+theme: jekyll-theme-leaf
+$ bundle
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-leaf"
