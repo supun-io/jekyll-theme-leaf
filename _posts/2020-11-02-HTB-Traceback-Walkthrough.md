@@ -1,6 +1,4 @@
 ---
-published: false
+published: true
 ---
-
-
-<h1>HTB Traceback Wrtieup<h1>
+https://miro.medium.com/max/875/1*lDUijOPp-YOa4IajsdvdJg.jpeg
