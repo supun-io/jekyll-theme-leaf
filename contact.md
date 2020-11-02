@@ -1,10 +1,11 @@
 ---
 title: Contact
 layout: page
+published: true
 ---
 
-You can always contact the creator of this theme via [Twitter](https://twitter.com/_SupunKavinda).
+You can always contact me via [Email](MohamedMagdyAbuMoslam@gmail.com).
 
-If you need help with Jekyll, ask questions on [Jekyll Talk](https://talk.jekyllrb.com/).
+If you need help you can reach me at [FaceBook](https://www.facebook.com/M19o0/).
 
-(Change this by editing `contact.md` file)
+
