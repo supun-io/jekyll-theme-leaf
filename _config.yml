@@ -1,6 +1,6 @@
 title: Leaf Blog
 iconURL: assets/default-icon.png
-theme: jekyll-theme-leaf
+theme: jekyll-theme-hacker
 
 # for a clean URL
 permalink: :slug
