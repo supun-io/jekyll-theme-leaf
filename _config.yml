@@ -6,8 +6,7 @@ theme: jekyll-theme-hacker
 permalink: :slug
 
 social:
-  twitter: _SupunKavinda
-  github: SupunKavinda
+  github: https://github.com/C4sp3N
 
 plugins:
  - jekyll-feed
