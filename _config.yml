@@ -6,7 +6,7 @@ theme: jekyll-theme-hacker
 permalink: :slug
 
 social:
-  github: https://github.com/C4sp3N
+  github: C4sp3N
 
 plugins:
  - jekyll-feed
