@@ -1,19 +1,17 @@
-title: Leaf Blog
+title: Duvan Marin - Seguridad Informatica
 iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
-# theme: jekyll-theme-hacker
 
-# for a clean URL
 permalink: :slug
 
 social:
-  twitter: _SupunKavinda
-  github: SupunKavinda
+  twitter: YOUR_TWITTER
+  github: YOUR_GITHUB
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 ### comments & analytics
-hyvor_talk_website_id: 14
+hyvor_talk_website_id: YOUR_WEBSITE_ID
 google_analytics: UA-NNNNNNNN-N
