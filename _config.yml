@@ -10,8 +10,8 @@ social:
   github: SupunKavinda
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
 
 ### comments & analytics
 hyvor_talk_website_id: 14
