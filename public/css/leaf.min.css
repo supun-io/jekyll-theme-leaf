@@ -20,7 +20,7 @@ figure {
 
 * {
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
@@ -35,17 +35,19 @@ body {
   min-height: 100vh;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   overflow-wrap: break-word;
-  font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
+  font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica,
+    Arial, sans-serif;
   color: #e0e0e0;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -o-font-feature-settings: "kern" 1;
   font-feature-settings: "kern" 1;
   -webkit-font-kerning: normal;
-          font-kerning: normal;
+  font-kerning: normal;
 }
 
 h1,
@@ -88,7 +90,8 @@ figure {
 
 pre,
 code {
-  font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
+  font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono",
+    "Liberation Mono", "Courier New", monospace;
   font-size: 0.9375em;
   border-radius: 3px;
 }
@@ -129,7 +132,7 @@ p img:first-child:last-child {
   border-radius: 10px;
   margin: 20px 0;
   -webkit-box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
-          box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
 }
 
 figure > img {
@@ -225,8 +228,8 @@ table th {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   background-color: #0f0f0f;
   border-bottom: 2px solid #86bb48;
   padding-left: 20px;
@@ -332,8 +335,8 @@ table th {
 @media screen and (min-width: 800px) {
   .site-nav {
     -webkit-box-flex: 1;
-        -ms-flex: 1;
-            flex: 1;
+    -ms-flex: 1;
+    flex: 1;
     position: static;
     float: right;
     border: none;
@@ -355,8 +358,8 @@ table th {
     display: -ms-inline-flexbox;
     display: inline-flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     height: 100%;
   }
   .site-nav .page-link.active {
@@ -463,7 +466,7 @@ article,
   background: #272726;
   border-radius: 20px;
   -webkit-box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
-          box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
   margin: 25px 0;
 }
 
@@ -474,7 +477,7 @@ article,
     padding: 0;
     background: transparent;
     -webkit-box-shadow: none;
-            box-shadow: none;
+    box-shadow: none;
   }
 }
 
@@ -498,8 +501,8 @@ article,
 
 .footer-title {
   -webkit-box-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
+  -ms-flex: 1;
+  flex: 1;
 }
 
 .footer-social-links svg {
