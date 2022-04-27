@@ -459,7 +459,7 @@ table th {
 article,
 .comments,
 .box {
-  padding: 0;
+  padding: 30px;
   background: #272726;
   border-radius: 20px;
   -webkit-box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
