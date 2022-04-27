@@ -1,20 +1,20 @@
 .home-box {
-    padding:0;
-    overflow:hidden;
-    .post-link {
-        color: inherit;
-        display:block;
-        padding: $spacing-unit;
-        transition: .3s background-color;
-        &:not(:last-child) {
-            border-bottom:1px solid $header-color;
-        }
-        &:hover {
-            text-decoration: none;
-            background-color: $header-color;
-        }
-        h3 {
-            margin:0;
-        }
+  padding: 0;
+  overflow: hidden;
+  .post-link {
+    color: inherit;
+    display: block;
+    padding: $spacing-unit;
+    transition: 0.3s background-color;
+    &:not(:last-child) {
+      border-bottom: 1px solid $header-color;
     }
+    &:hover {
+      text-decoration: none;
+      background-color: $header-color;
+    }
+    h3 {
+      margin: 0;
+    }
+  }
 }

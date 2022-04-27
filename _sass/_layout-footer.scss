@@ -1,25 +1,24 @@
 .site-footer {
-    .footer {
-        display:flex;
-        padding:15px;
-        padding-bottom:40px;
-    }
+  .footer {
+    display: flex;
+    padding: 15px;
+    padding-bottom: 40px;
+  }
 }
 
 .footer-title {
-    flex:1;           
+  flex: 1;
 }
 
 .footer-social-links {
-    svg {
-        width:20px;
-        height:20px;
-        fill: $theme-color;
+  svg {
+    width: 20px;
+    height: 20px;
+    fill: $theme-color;
+  }
+  a {
+    &:not(:first-child) {
+      margin-left: 6px;
     }
-    a {
-        &:not(:first-child) {
-            margin-left:6px;
-        }
-    }
+  }
 }
-  
