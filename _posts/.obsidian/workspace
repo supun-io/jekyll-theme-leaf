@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "622188c7c5bfff7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6083361265431e4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-03-14-Iso-27002.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "461163db71c92dc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "615642827b3b1df0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49af84031b13da16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d925b85875f40cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed743cf226e6fdb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "77acfb9c5ba6778d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e125583a16bc10d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-03-14-Iso-27002.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d6083361265431e4",
+  "lastOpenFiles": [
+    "2022-03-14-Iso-27002.md",
+    "2022-03-07-EJERCICIO-CUADRO-DE-MAGARETH.md",
+    "2022-02-28-EJERCICIO-CASO-PRACTICO.md",
+    "imgs/Pasted image 20220516142710.png",
+    "2022-02-23-Iso-27001.md",
+    "2022-02-17-Tipos-de-ataques-informaticos.md",
+    "2022-02-15-Introducción-a-la-seguridad-informatica.md"
+  ]
+}
