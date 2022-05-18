@@ -1,7 +1,7 @@
 title: Duvan Marin - Seguridad Informatica
 iconURL: assets/default-icon.png
-#theme: jekyll-theme-leaf
-theme: jekyll-theme-hacker
+theme: jekyll-theme-leaf
+#theme: jekyll-theme-hacker
 
 permalink: :slug
 

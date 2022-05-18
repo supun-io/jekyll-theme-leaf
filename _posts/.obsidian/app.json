@@ -1,5 +1,6 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "communityThemeSortOrder": "releaseReverse"
+  "communityThemeSortOrder": "releaseReverse",
+  "alwaysUpdateLinks": true
 }

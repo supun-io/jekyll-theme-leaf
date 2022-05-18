@@ -8,6 +8,12 @@ author: Duvan Marin
 * Se pudo evitar capacitando a los empleados para que no caigan en emails fraudulentos
 * Además no dar su email o registrar el email de la empresa en otros sitios para que no lo conozcan las personas mal intencionadas
 
+
+![[Exp-SonyPictures.png]]
+
+> Foto que apareció en los computadores de los empleados de sony por "Guardians of peace"
+
+
 ## 2. Ashley Madison
 
 * 
