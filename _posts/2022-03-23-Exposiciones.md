@@ -14,7 +14,7 @@ Dentro de estas 100TB de documentos y archivos se encontraban
 
 Los expertos en seguridad tienen diferentes opiniones sobre los hechos. Algunos investigadores especulan que los piratas informáticos obtuvieron acceso a otra infraestructura de Sony abusando de sus recursos. Otros creen que Sony Pictures y las fuerzas del orden están utilizando trampas para recopilar más información sobre los atacantes.
 
-![[Exp-SonyPictures2.png]]
+![img](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/Exp-SonyPictures2.png?raw=true)
 
 > Lista de los datos robados de los sevidores de Sony Pictures
 
@@ -24,7 +24,7 @@ Los expertos en seguridad tienen diferentes opiniones sobre los hechos. Algunos 
 * Además no dar su email o registrar el email de la empresa en otros sitios para que no lo conozcan las personas mal intencionadas
 
 
-![[Exp-SonyPictures.png]]
+![img](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/Exp-SonyPictures.png?raw=true)
 
 > Foto que apareció en los computadores de los empleados de sony por "Guardians of peace"
 
@@ -35,7 +35,7 @@ El día 12 de julio los empleados de Avid Life Media (empresa matriz de Ashley M
 
 El día 20 de julio Impact Team publica su mensaje de advertencia en Pastebin, esta vez estableciendo una ventana de 30 días para que Avid Life Media cierre los sitios antes de que se publique la información.
 
-![[Exp-AshleyMadison.png]]
+![img](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/Exp-AshleyMadison.png?raw=true)
 
 Como amenaza el grupo "Impact team" publica 2 usuarios registrados en la página.
 
@@ -49,7 +49,7 @@ Los intrusos también se llevaron montones de códigos fuente digitales para alg
 
 una investigación realizada por los estados reveló que en septiembre de 2013, Adobe recibió una alerta de que el disco duro de uno de sus servidores de aplicaciones estaba llegando a su máxima capacidad, al responder a la alerta, Adobe se enteró de que se estaba realizando un intento no autorizado para descifrar los números de tarjetas de pago de los clientes mantenidos en el servidor.
 
-![[Exp-Adobe.png]]
+![img](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/Exp-Adobe.png?raw=true)
 
 Adobe descubrió que uno o más intrusos no autorizados habían comprometido un servidor web público y lo utilizaron para acceder a otros servidores en la red de Adobe, incluidas las áreas donde Adobe almacenó datos de consumidores”, se lee en el comunicado de la oficina de Healey.
 
@@ -61,7 +61,7 @@ Según eBay, la infracción no incluyó números de tarjetas de crédito ni info
 
 Dicho esto, los usuarios de eBay ahora están particularmente sujetos a ataques de phishing. La razón es que los delincuentes tendrán acceso a información personal que podría ayudarlos a engañar a un usuario de eBay desprevenido para que comparta información adicional o haga clic en un enlace malicioso.
 
-![[Exp-Ebay.png]]
+![img](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/Exp-Ebay.png?raw=true)
 
 Mark Carges, director de tecnología de eBay, dijo que la empresa descubrió la infracción después de notar varios comportamientos inusuales en la red de la empresa. Esencialmente, eBay detectó anomalías (actividades estadísticamente separadas del comportamiento normal) en el uso de su red.
 
@@ -69,7 +69,7 @@ Mark Carges, director de tecnología de eBay, dijo que la empresa descubrió la 
 
 En abril del 2011, la red PlayStation de Sony fue atacada por piratas informáticos que robaron información personal de millones de jugadores de PlayStation y bloquearon la red durante semanas.
 
-![[Exp-PSN.png]]
+![img](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/Exp-PSN.png?raw=true)
 
 Este ataque fue motivado por la ira por la demanda de Sony contra un pirata informático estadounidense que intentó aplicar ingeniería inversa a la PlayStation 3 para permitir a los usuarios jugar juegos de terceros no autorizados por Sony.
 
@@ -83,7 +83,7 @@ El bloguero de seguridad Brian Krebs, quien fue el primero en informar sobre la 
 
 Según Krebs, fuentes cercanas a la investigación dijeron que los atacantes accedieron por primera vez a la red de Target el 15 de noviembre de 2013 con un nombre de usuario y una contraseña robados a Fazio Mechanical Services.
 
-![[Exp-Target.png]]
+![img](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/Exp-Target.png?raw=true)
 
 Los piratas primero probaron el malware de robo de datos en una pequeña cantidad de cajas registradoras y luego, después de determinar que el software funcionaba, lo cargaron en la mayoría de los sistemas POS de Target.
 
@@ -97,7 +97,7 @@ El archivo se eliminó rápidamente, sin embargo, la información se reflejó y 
 
 El 8 de septiembre de 2014, Home Depot emitió un comunicado indicando que los sistemas de tarjetas de pago fueron violados. Explicaron que la investigación comenzó el 2 de septiembre y todavía estaban tratando de descubrir el alcance real y el impacto del incumplimiento. Home Depot explicó que estarían ofreciendo servicios de crédito gratis a afectados clientes que usaron su tarjeta de pago ya en abril de 2014 y se disculparon por filtración de datos. También indicaron que su Equipo de Respuesta a Incidentes estaba siguiendo su plan de Respuesta a Incidentes para contener y erradicar el daño y estaba trabajando con firmas de seguridad para la investigación ("The Home Depot, Inc. - Comunicado de prensa", 2014). Este es una de las muchas infracciones minoristas que han ocurrido y seguirán ocurriendo, hasta que los minoristas se vuelven proactivos en la protección de sus entornos.
 
-![[Exp-HomeDepot.png]]
+![img](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/Exp-HomeDepot.png?raw=true)
 
 Home Depot fue una de las muchas víctimas de una violación de datos minoristas en 2014. Lo desafortunado es la forma en que el atacante se infiltró en las redes POS y cómo el
 Los atacantes pudieron robar los datos de la tarjeta de pago, fueron los mismos métodos utilizados en la violación de datos objetivo. Los atacantes pudieron obtener acceso a uno de los entornos de proveedores de Home Depot utilizando las credenciales de inicio de sesión de un proveedor externo. Luego explotaron una vulnerabilidad de día cero en Windows, lo que les permitió pasar del entorno específico del proveedor al entorno corporativo de Home Depot.
@@ -108,7 +108,7 @@ En diciembre de 2014, el equipo de seguridad de Yahoo descubrió que los piratas
 
 El 22 de septiembre de 2016, Yahoo finalmente reveló la violación de datos de 2014 a Verizon y en un comunicado de prensa adjunto a un Formulario 8-K. La divulgación de Yahoo fijó el número de usuarios de Yahoo afectados en 500 millones.
 
-![[Exp-Yahoo.png]]
+![img](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/Exp-Yahoo.png?raw=true)
 
 Desde septiembre de 2016, Yahoo ha revisado dos veces su divulgación de violación de datos. En diciembre de 2016, Yahoo reveló que los piratas informáticos habían robado datos de mil millones de usuarios de Yahoo en agosto de 2013 y también habían falsificado cookies que permitirían a un intruso acceder a cuentas de usuario sin proporcionar una contraseña válida en 2015 y 2016.
 

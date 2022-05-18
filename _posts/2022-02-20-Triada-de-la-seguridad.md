@@ -5,7 +5,7 @@ author: Duvan Marin
 
 Los datos son valores, números, medidas, textos, documentos en bruto, la información es el valor de esos datos, es lo que aporta conocimiento. Los manuales de procedimientos, los datos de los empleados, de los proveedores y clientes de la empresa, la base de datos de facturación son datos estructurados de tal forma que se convierten en información, que aportan valor como compañía.
 
-![[Triada-Seguridad.png]]
+![img](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/Triada-Seguridad.png?raw=true)
 
 La seguridad está fundamentada por 3 pilares, pero puede haber más que puedan fundamentar a la seguridad, en este caso, si alguno de los lados es débil se perderá seguridad o usabilidad, si falta alguno de los lados la organización queda expuesta a ataques, para esto se debe conocer en detalle cuál es la función de cada lado en el gráfico.
 
