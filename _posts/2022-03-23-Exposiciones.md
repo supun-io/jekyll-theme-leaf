@@ -83,7 +83,9 @@ Dicho esto, los usuarios de eBay ahora están particularmente sujetos a ataques 
 
 Mark Carges, director de tecnología de eBay, dijo que la empresa descubrió la infracción después de notar varios comportamientos inusuales en la red de la empresa. Esencialmente, eBay detectó anomalías (actividades estadísticamente separadas del comportamiento normal) en el uso de su red.
 
+### Conclusión
 
+En este ejemplo de phishing una solución es no abrir links de clientes si en este caso usted es el empleado de la empresa, es muy importante esto ya que el phishing es de los métodos más usados y mas fáciles para acceder a cuentas. Además es muy importante la capacitación de empleados, es un error muy básico para un empleado de una empresa tan grande
 
 ## 5. Sony PlayStation Network
 
@@ -94,7 +96,6 @@ En abril del 2011, la red PlayStation de Sony fue atacada por piratas informáti
 Este ataque fue motivado por la ira por la demanda de Sony contra un pirata informático estadounidense que intentó aplicar ingeniería inversa a la PlayStation 3 para permitir a los usuarios jugar juegos de terceros no autorizados por Sony.
 
 Entre el 17 y el 19 de abril, una persona no identificada hasta ahora obtuvo acceso ilegal a los servidores PSN de Sony en San Diego, California, al piratear un servidor de aplicaciones detrás de un servidor web y dos firewalls. Según el director de información de Sony, Shinji Hajesima, el ataque se disfrazó como una compra, por lo que no levantó ninguna señal de alerta de inmediato.
-
 
 ## 6. Target
 
@@ -127,6 +128,8 @@ El 8 de septiembre de 2014, Home Depot emitió un comunicado indicando que los s
 Home Depot fue una de las muchas víctimas de una violación de datos minoristas en 2014. Lo desafortunado es la forma en que el atacante se infiltró en las redes POS y cómo el
 Los atacantes pudieron robar los datos de la tarjeta de pago, fueron los mismos métodos utilizados en la violación de datos objetivo. Los atacantes pudieron obtener acceso a uno de los entornos de proveedores de Home Depot utilizando las credenciales de inicio de sesión de un proveedor externo. Luego explotaron una vulnerabilidad de día cero en Windows, lo que les permitió pasar del entorno específico del proveedor al entorno corporativo de Home Depot.
 
+### Conclusión
+En este caso en concreto es obligatorio usar doble factor de autenticación, de esta manera no habrían tenido acceso a las credenciales del empleado.
 
 ## 9. Yahoo
 
