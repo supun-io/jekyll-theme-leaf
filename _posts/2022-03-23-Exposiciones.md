@@ -149,7 +149,7 @@ La violación, presuntamente cometida por un empleado de la CIA, se descubrió u
 
 El portal WikiLeaks, dirigido por el australiano Julian Assange, estrenó este miércoles una serie de siete entregas de filtraciones, llamada "Vault 7" y de la que ha publicado ya el capítulo "Year Zero (Año Cero)" que incluía  943 archivos adjuntos.
 
-![[Exp-CIA.png]]
+![Exp-CIA.png](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/Exp-CIA.png?raw=true)
 
 ### Conclusión
 
@@ -164,7 +164,7 @@ La cuenta requería solo una única contraseña y no tenía verificación de "do
 
 Los correos electrónicos enviados y recibidos por los 244 000 empleados de Deloitte se almacenaron en el servicio en la nube de Azure, proporcionado por Microsoft. Este es el equivalente de Microsoft al servicio web de Amazon y la plataforma en la nube de Google.
 
-![[Pasted image 20220523130236.png]]
+![[Exp-Deloitte.png]]
 
 ### Conclusión
 

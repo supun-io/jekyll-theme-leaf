@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-05-09-Ingeniería-social.md",
+            "file": "2022-03-23-Exposiciones.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-05-09-Ingeniería-social.md",
+                "file": "2022-03-23-Exposiciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "d6083361265431e4",
   "lastOpenFiles": [
-    "2022-05-09-Ingeniería-social.md",
     "2022-03-23-Exposiciones.md",
+    "2022-05-09-Ingeniería-social.md",
     "2022-05-16-Glosario.md",
     "2022-02-22-Kleopatra.md",
     "2022-02-20-Triada-de-la-seguridad.md",
