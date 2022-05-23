@@ -367,7 +367,22 @@ table th {
 
 .home-box {
   padding: 0;
+  background: #272726;
+  border-radius: 20px;
+  -webkit-box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
+  margin: 25px 0;
+  padding: 0;
   overflow: hidden;
+}
+
+@media screen and (max-width: 600px) {
+  .home-box {
+    padding: 0;
+    background: transparent;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+  }
 }
 
 .home-box .post-link {

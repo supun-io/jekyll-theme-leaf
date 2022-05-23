@@ -1,5 +1,15 @@
 .home-box {
   padding: 0;
+  background: $content-color;
+  border-radius: 20px;
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
+  margin: 25px 0;
+  @include media-query($on-mobile) {
+    padding: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+  padding: 0;
   overflow: hidden;
   .post-link {
     color: inherit;
