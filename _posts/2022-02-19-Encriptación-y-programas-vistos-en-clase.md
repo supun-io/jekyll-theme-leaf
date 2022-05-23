@@ -41,12 +41,31 @@ Este tipo de encriptación se basa en que si el emisor cifra la información el 
 - **Clave pública**: conocida por uno o todos los usuarios.
 
 ### Programas vistos en clase
-![[crypt-Hascat.png]]
 
-![[crypt-Kali.png]]
+#### Hashcat 
+**Es una de las herramientas de recuperación de contraseñas más rápida y avanzada que existe**. Posee más de 200 tipos de hash, un motor de reglas interno, un sistema integrado de evaluación comparativa y muchas características más.
 
-![[crypt-Metasploit.png]]
+![crypt-Hascat.png](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/crypt-Hascat.png?raw=true)
 
-![[crypt-Netcat.png]]
 
-![[crypt-WireShark.png]]
+#### Kali Linux 
+
+Es una distribución de Linux basada en Debian y **utilizada especialmente en seguridad de red gracias a su variedad de herramientas forenses**. Es ideal para hallar vulnerabilidades de seguridad en las redes y sistemas informáticos.
+
+![crypt-Kali.png](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/crypt-Kali.png?raw=true)
+
+#### Metasploit 
+**Los pentest utilizan con mucha frecuencia los metasploit en sus auditorías**, debido a que este framework está compuesto por miles de módulos que ofrecen diversas funcionalidades que abarcan cada etapa de una prueba de penetración.
+
+![crypt-Metasploit.png](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/crypt-Metasploit.png?raw=true)
+
+#### NetCat 
+Programa diseñado específicamente para que los administradores de redes pudieran utilizarlo como **herramienta de depuración o análisis de red**. Puede emplearse por medio de otras aplicaciones o como una utilidad back-end fácil de utilizar. Cabe destacar que esta aplicación también suele usarse para acceder o abrir puertas traseras de un sistema en específico.
+
+![crypt-Netcat.png](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/crypt-Netcat.png?raw=true)
+
+#### WireShark 
+
+**Herramienta para el análisis de red antes conocida como Ethereal**. Esta aplicación permite el análisis exhaustivo de nuestra red mediante la herramienta Tshark que sirve para realizar capturas, análisis de red, entre otros. También cuenta con las librerías PCAP que funcionan de forma parecida a Tcpdump y Windump.
+
+![crypt-WireShark.png](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/crypt-WireShark.png?raw=true)
