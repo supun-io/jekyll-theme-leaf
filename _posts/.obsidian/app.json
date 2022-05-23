@@ -3,5 +3,6 @@
   "livePreview": true,
   "communityThemeSortOrder": "releaseReverse",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": true
 }

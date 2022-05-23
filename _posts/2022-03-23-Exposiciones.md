@@ -19,16 +19,14 @@ Los expertos en seguridad tienen diferentes opiniones sobre los hechos. Algunos 
 > Lista de los datos robados de los sevidores de Sony Pictures
 
 
-
-* Se pudo evitar capacitando a los empleados para que no caigan en emails fraudulentos
-* Además no dar su email o registrar el email de la empresa en otros sitios para que no lo conozcan las personas mal intencionadas
-
-
 ![img](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/Exp-SonyPictures.png?raw=true)
 
 > Foto que apareció en los computadores de los empleados de sony por "Guardians of peace"
 
 ### Conclusión
+
+* Se pudo evitar capacitando a los empleados para que no caigan en emails fraudulentos
+* Además no dar su email o registrar el email de la empresa en otros sitios para que no lo conozcan las personas mal intencionadas
 
 ## 2. Ashley Madison
 
@@ -42,9 +40,13 @@ El día 20 de julio Impact Team publica su mensaje de advertencia en Pastebin, e
 
 Como amenaza el grupo "Impact team" publica 2 usuarios registrados en la página.
 
-Un mes despues en agosto 20 se publican mas de 40 millones de usuarios de todo el mundo, desde los email hasta el código fuente de la página.
+Un mes después en agosto 20 se publican más de 40 millones de usuarios de todo el mundo, desde los email hasta el código fuente de la página.
 
 ### Conclusión
+
+Se debería usar hashing para encriptar las contraseñas, pero además de eso:
+* Usar un algoritmo mas reciente y complejo para evitar ser descifrado
+* Volver a hacer un hash a las contraseñas después de uno o dos años
 
 ## 3. Adobe
 
@@ -61,6 +63,7 @@ Adobe descubrió que uno o más intrusos no autorizados habían comprometido un 
 Adobe pagó una cantidad no revelada para resolver las reclamaciones de los clientes y se enfrenta a 1,2 millones de dólares estadounidenses en honorarios legales después de su violación de datos de 2013 que comprometió los detalles de 38 millones de usuarios.
 
 ### Conclusión
+
 
 ## 4. eBay
 
@@ -123,7 +126,7 @@ Los atacantes pudieron robar los datos de la tarjeta de pago, fueron los mismos 
 
 ## 9. Yahoo
 
-En diciembre de 2014, el equipo de seguridad de Yahoo descubrió que los piratas informáticos rusos habían obtenido sus "joyas de la corona": nombres de usuario, direcciones de correo electrónico, números de teléfono, fechas de nacimiento, contraseñas y preguntas/respuestas de seguridad de al menos 500 millones de cuentas de Yahoo.
+En 2016, el equipo de seguridad de Yahoo descubrió que los piratas informáticos rusos habían obtenido sus nombres de usuario, direcciones de correo electrónico, números de teléfono, fechas de nacimiento, contraseñas y preguntas/respuestas de seguridad de al menos 500 millones de cuentas de Yahoo.
 
 El 22 de septiembre de 2016, Yahoo finalmente reveló la violación de datos de 2014 a Verizon y en un comunicado de prensa adjunto a un Formulario 8-K. La divulgación de Yahoo fijó el número de usuarios de Yahoo afectados en 500 millones.
 
@@ -141,6 +144,8 @@ No solo se expusieron esas identidades, sino que el usuario de Twitter que publi
 
 ### Conclusión
 
+No confiar de correos de terceros e identificar las técnicas de ingeniería social que puedan utilizar contra sí mismo. Además de contar con doble factor de autenticación para evitar logueos desde personas externas
+
 ## 11. CIA
 
 El robo de herramientas ultrasecretas de piratería informática de la CIA en 2016 fue el resultado de una cultura laboral en la que los piratas informáticos de élite de la agencia "priorizaron la construcción de armas cibernéticas a expensas de proteger sus propios sistemas", según un informe interno preparado para el entonces director Mike Pompeo, así como su adjunta, Gina Haspel, ahora directora. 
@@ -153,6 +158,7 @@ El portal WikiLeaks, dirigido por el australiano Julian Assange, estrenó este m
 
 ### Conclusión
 
+Este ataque se pudo haber evitado monitoreando a los usuarios además de no darle permisos adicionales a los que están en el contrato, también si van a hacer herramientas de hacking es obligatorio fortalecer las "defensas" y no las "armas".
 
 ## 12. Deloitte
 
@@ -168,5 +174,5 @@ Los correos electrónicos enviados y recibidos por los 244 000 empleados de Delo
 
 ### Conclusión
 
-
+No usar contraseñas laxas en una cuenta tan importante y que otorga tantos permisos en la empresa
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-02-19-Encriptación-y-programas-vistos-en-clase.md",
+            "file": "2022-03-23-Exposiciones.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02-19-Encriptación-y-programas-vistos-en-clase.md",
+                "file": "2022-03-23-Exposiciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "d6083361265431e4",
   "lastOpenFiles": [
+    "2022-03-23-Exposiciones.md",
     "2022-02-19-Encriptación-y-programas-vistos-en-clase.md",
     "imgs/crypt-Kleopatra.png",
     "Pasted image 20220523165734.png.md",
@@ -97,7 +98,6 @@
     "imgs/crypt-WireShark.png",
     "imgs/crypt-Netcat.png",
     "imgs/crypt-Metasploit.png",
-    "imgs/crypt-Kali.png",
-    "imgs/crypt-Hascat.png"
+    "imgs/crypt-Kali.png"
   ]
 }
