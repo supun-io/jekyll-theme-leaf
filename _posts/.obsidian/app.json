@@ -2,5 +2,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "communityThemeSortOrder": "releaseReverse",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
