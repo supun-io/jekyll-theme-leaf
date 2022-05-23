@@ -3,6 +3,12 @@ layout: post
 author: Duvan Marin
 ---
 
+## Archivo exposición CIA
+
+[CIA.pptx](https://campusuccedu-my.sharepoint.com/:p:/g/personal/duvan_marinc_campusucc_edu_co/EZDEvkrjjWtHiDF2HmPDH8QB0e7hi1J4gAXNo7OCWH3hTA?e=7eO3Vd)
+
+
+
 ## 1. Sony pictures
 
 El día 9 de diciembre de 2014 el grupo de hackers "Guardians of Peace" relveló que había publicado miles de documentos de los ejecutivos de Sony pictures, alrededor de 100TB de datos fueron filtrados por este grupo.
