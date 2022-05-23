@@ -37,6 +37,8 @@ El día 20 de julio Impact Team publica su mensaje de advertencia en Pastebin, e
 
 ![img](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/Exp-AshleyMadison.png?raw=true)
 
+> Sitio web y mensaje del grupo Impact team
+
 Como amenaza el grupo "Impact team" publica 2 usuarios registrados en la página.
 
 Un mes despues en agosto 20 se publican mas de 40 millones de usuarios de todo el mundo, desde los email hasta el código fuente de la página
@@ -85,6 +87,8 @@ Según Krebs, fuentes cercanas a la investigación dijeron que los atacantes acc
 
 ![img](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/Exp-Target.png?raw=true)
 
+> Diagrama de ataque contra Target
+
 Los piratas primero probaron el malware de robo de datos en una pequeña cantidad de cajas registradoras y luego, después de determinar que el software funcionaba, lo cargaron en la mayoría de los sistemas POS de Target.
 
 ## 7. AOL
@@ -114,11 +118,15 @@ Desde septiembre de 2016, Yahoo ha revisado dos veces su divulgación de violaci
 
 ## 10. DHS & FBI
 
+En junio del 2017, se filtró en línea la información personal de más de 9300 empleados del Departamento de Seguridad Nacional (DHS), todo debido a una aparente violación de datos en las redes del DHS.
+
+No solo se expusieron esas identidades, sino que el usuario de Twitter que publicó la información inmediatamente hizo lo mismo al exponer información adicional de 22,000 empleados de la Oficina Federal de Investigaciones (FBI).
+
 ## 11. CIA
 
-* 
+
 ## 12. Deloitte
 
-* 
+
 
 
