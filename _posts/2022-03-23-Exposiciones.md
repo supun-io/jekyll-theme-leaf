@@ -28,6 +28,7 @@ Los expertos en seguridad tienen diferentes opiniones sobre los hechos. Algunos 
 
 > Foto que apareció en los computadores de los empleados de sony por "Guardians of peace"
 
+### Conclusión
 
 ## 2. Ashley Madison
 
@@ -41,7 +42,9 @@ El día 20 de julio Impact Team publica su mensaje de advertencia en Pastebin, e
 
 Como amenaza el grupo "Impact team" publica 2 usuarios registrados en la página.
 
-Un mes despues en agosto 20 se publican mas de 40 millones de usuarios de todo el mundo, desde los email hasta el código fuente de la página
+Un mes despues en agosto 20 se publican mas de 40 millones de usuarios de todo el mundo, desde los email hasta el código fuente de la página.
+
+### Conclusión
 
 ## 3. Adobe
 
@@ -57,6 +60,8 @@ Adobe descubrió que uno o más intrusos no autorizados habían comprometido un 
 
 Adobe pagó una cantidad no revelada para resolver las reclamaciones de los clientes y se enfrenta a 1,2 millones de dólares estadounidenses en honorarios legales después de su violación de datos de 2013 que comprometió los detalles de 38 millones de usuarios.
 
+### Conclusión
+
 ## 4. eBay
 
 Según eBay, la infracción no incluyó números de tarjetas de crédito ni información financiera de PayPal, que es propiedad de eBay.
@@ -67,6 +72,8 @@ Dicho esto, los usuarios de eBay ahora están particularmente sujetos a ataques 
 
 Mark Carges, director de tecnología de eBay, dijo que la empresa descubrió la infracción después de notar varios comportamientos inusuales en la red de la empresa. Esencialmente, eBay detectó anomalías (actividades estadísticamente separadas del comportamiento normal) en el uso de su red.
 
+### Conclusión
+
 ## 5. Sony PlayStation Network
 
 En abril del 2011, la red PlayStation de Sony fue atacada por piratas informáticos que robaron información personal de millones de jugadores de PlayStation y bloquearon la red durante semanas.
@@ -76,6 +83,8 @@ En abril del 2011, la red PlayStation de Sony fue atacada por piratas informáti
 Este ataque fue motivado por la ira por la demanda de Sony contra un pirata informático estadounidense que intentó aplicar ingeniería inversa a la PlayStation 3 para permitir a los usuarios jugar juegos de terceros no autorizados por Sony.
 
 Entre el 17 y el 19 de abril, una persona no identificada hasta ahora obtuvo acceso ilegal a los servidores PSN de Sony en San Diego, California, al piratear un servidor de aplicaciones detrás de un servidor web y dos firewalls. Según el director de información de Sony, Shinji Hajesima, el ataque se disfrazó como una compra, por lo que no levantó ninguna señal de alerta de inmediato.
+
+### Conclusión
 
 ## 6. Target
 
@@ -91,11 +100,15 @@ Según Krebs, fuentes cercanas a la investigación dijeron que los atacantes acc
 
 Los piratas primero probaron el malware de robo de datos en una pequeña cantidad de cajas registradoras y luego, después de determinar que el software funcionaba, lo cargaron en la mayoría de los sistemas POS de Target.
 
+### Conclusión
+
 ## 7. AOL
 
 En 2006, el departamento de investigación de AOL publicó accidentalmente un archivo de texto comprimido en uno de sus sitios web que contenía 20 millones de búsquedas de palabras clave realizadas por más de 650 000 usuarios en un período de tres meses.
 
 El archivo se eliminó rápidamente, sin embargo, la información se reflejó y se difundió por Internet. Aunque los usuarios no se identificaron explícitamente, las listas numéricas los relacionaron con las consultas de búsqueda, lo que resultó en que las personas pudieran identificar implícitamente a los usuarios y su historial de búsqueda.
+
+### Conclusión
 
 ## 8. The HomeDepot
 
@@ -105,6 +118,8 @@ El 8 de septiembre de 2014, Home Depot emitió un comunicado indicando que los s
 
 Home Depot fue una de las muchas víctimas de una violación de datos minoristas en 2014. Lo desafortunado es la forma en que el atacante se infiltró en las redes POS y cómo el
 Los atacantes pudieron robar los datos de la tarjeta de pago, fueron los mismos métodos utilizados en la violación de datos objetivo. Los atacantes pudieron obtener acceso a uno de los entornos de proveedores de Home Depot utilizando las credenciales de inicio de sesión de un proveedor externo. Luego explotaron una vulnerabilidad de día cero en Windows, lo que les permitió pasar del entorno específico del proveedor al entorno corporativo de Home Depot.
+
+### Conclusión
 
 ## 9. Yahoo
 
@@ -116,17 +131,42 @@ El 22 de septiembre de 2016, Yahoo finalmente reveló la violación de datos de 
 
 Desde septiembre de 2016, Yahoo ha revisado dos veces su divulgación de violación de datos. En diciembre de 2016, Yahoo reveló que los piratas informáticos habían robado datos de mil millones de usuarios de Yahoo en agosto de 2013 y también habían falsificado cookies que permitirían a un intruso acceder a cuentas de usuario sin proporcionar una contraseña válida en 2015 y 2016.
 
+### Conclusión
+
 ## 10. DHS & FBI
 
 En junio del 2017, se filtró en línea la información personal de más de 9300 empleados del Departamento de Seguridad Nacional (DHS), todo debido a una aparente violación de datos en las redes del DHS.
 
 No solo se expusieron esas identidades, sino que el usuario de Twitter que publicó la información inmediatamente hizo lo mismo al exponer información adicional de 22,000 empleados de la Oficina Federal de Investigaciones (FBI).
 
+### Conclusión
+
 ## 11. CIA
+
+El robo de herramientas ultrasecretas de piratería informática de la CIA en 2016 fue el resultado de una cultura laboral en la que los piratas informáticos de élite de la agencia "priorizaron la construcción de armas cibernéticas a expensas de proteger sus propios sistemas", según un informe interno preparado para el entonces director Mike Pompeo, así como su adjunta, Gina Haspel, ahora directora. 
+
+La violación, presuntamente cometida por un empleado de la CIA, se descubrió un año después de que ocurriera,El Informe final del grupo de trabajo de WikiLeaks, con fecha de octubre de 2017, fue comisionado por la CIA para investigar la filtración [de Vault 7](https://www.techtarget.com/searchsecurity/news/450414514/Vault-7-CIA-hacking-weapons-include-iOS-Android-and-Windows-zero-days) , que incluía casi 9,000 documentos y archivos para una variedad de herramientas de piratería y vulnerabilidades no reveladas previamente para Windows, iOS, Android y otro software ampliamente utilizado. La Oficina del Senador Ron Wyden  
+
+El portal WikiLeaks, dirigido por el australiano Julian Assange, estrenó este miércoles una serie de siete entregas de filtraciones, llamada "Vault 7" y de la que ha publicado ya el capítulo "Year Zero (Año Cero)" que incluía  943 archivos adjuntos.
+
+![[Exp-CIA.png]]
+
+### Conclusión
 
 
 ## 12. Deloitte
 
+Una de las "cuatro grandes" firmas de contabilidad del mundo fue objeto de un sofisticado hackeo que comprometió los planes y correos electrónicos confidenciales de algunos de sus clientes de primer nivel, según pudo revelar The Guardian.
+
+El pirata informático comprometió el servidor de correo electrónico global de la empresa a través de una "cuenta de administrador" que, en teoría, les otorgaba un "acceso a todas las áreas" privilegiado y sin restricciones.
+
+La cuenta requería solo una única contraseña y no tenía verificación de "dos pasos", dijeron las fuentes.
+
+Los correos electrónicos enviados y recibidos por los 244 000 empleados de Deloitte se almacenaron en el servicio en la nube de Azure, proporcionado por Microsoft. Este es el equivalente de Microsoft al servicio web de Amazon y la plataforma en la nube de Google.
+
+![[Pasted image 20220523130236.png]]
+
+### Conclusión
 
 
 
