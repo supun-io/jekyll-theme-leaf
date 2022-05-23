@@ -39,3 +39,14 @@ Este tipo de encriptación se basa en que si el emisor cifra la información el 
 
 - **Clave privada**: Custodiada por el propietario, por lo tanto, solo él tiene acceso a ella sin darla a conocer a nadie.
 - **Clave pública**: conocida por uno o todos los usuarios.
+
+### Programas vistos en clase
+![[crypt-Hascat.png]]
+
+![[crypt-Kali.png]]
+
+![[crypt-Metasploit.png]]
+
+![[crypt-Netcat.png]]
+
+![[crypt-WireShark.png]]

@@ -7,11 +7,9 @@
         "id": "d6083361265431e4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "2022-03-23-Exposiciones.md",
-            "mode": "source",
-            "source": false
+            "file": "imgs/crypt-WireShark.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03-23-Exposiciones.md",
+                "file": "imgs/crypt-WireShark.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +87,15 @@
   },
   "active": "d6083361265431e4",
   "lastOpenFiles": [
+    "imgs/crypt-WireShark.png",
+    "imgs/crypt-Netcat.png",
+    "imgs/crypt-Metasploit.png",
+    "imgs/crypt-Kali.png",
+    "imgs/crypt-Hascat.png",
+    "2022-02-19-Encriptación-y-programas-vistos-en-clase.md",
     "2022-03-23-Exposiciones.md",
     "2022-05-09-Ingeniería-social.md",
     "2022-05-16-Glosario.md",
-    "2022-02-22-Kleopatra.md",
-    "2022-02-20-Triada-de-la-seguridad.md",
-    "2022-02-23-Iso-27001.md",
-    "2022-02-17-Tipos-de-ataques-informaticos.md",
-    "2022-02-15-Introducción-a-la-seguridad-informatica.md",
-    "2022-02-19-Encriptación.md",
-    "2022-02-28-EJERCICIO-CASO-PRACTICO.md"
+    "2022-02-22-Kleopatra.md"
   ]
 }
