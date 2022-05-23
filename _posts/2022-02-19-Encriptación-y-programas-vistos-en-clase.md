@@ -46,11 +46,11 @@ Este tipo de encriptación se basa en que si el emisor cifra la información el 
 
 VirusTotal es un sitio web creado por la empresa de seguridad española Hispasec Sistemas. Lanzado en junio de 2004, fue adquirido por Google en septiembre de 2012. La propiedad de la empresa cambió en enero de 2018 a Chronicle, una subsidiaria de Google.
 
-![[crypt-VirusTotal.png]]
+![crypt-VirusTotal](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/crypt-VirusTotal.png?raw=true)
 
 #### Kleopatra
 
-![[crypt-Kleopatra.png]]
+![crypt-Kleopatra.png](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/crypt-Kleopatra.png?raw=true)
 
 #### Hashcat 
 **Es una de las herramientas de recuperación de contraseñas más rápida y avanzada que existe**. Posee más de 200 tipos de hash, un motor de reglas interno, un sistema integrado de evaluación comparativa y muchas características más.
