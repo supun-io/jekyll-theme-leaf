@@ -3,4 +3,4 @@ title: Contacto
 layout: page
 ---
 
-Contacto [Outlook](https://wa.me/573208856258).
+Contacto [WhatsApp](https://wa.me/573208856258).
