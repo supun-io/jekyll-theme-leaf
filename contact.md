@@ -3,4 +3,4 @@ title: Contacto
 layout: page
 ---
 
-Contacto [Outlook](duvan.marinc@campusucc.edu.co).
+Contacto [Outlook](https://wa.me/573208856258).
