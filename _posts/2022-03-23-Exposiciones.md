@@ -64,6 +64,8 @@ Adobe pagó una cantidad no revelada para resolver las reclamaciones de los clie
 
 ### Conclusión
 
+La empresa debió hacer las investigaciones suficientes en su propia red ya que desde hacía tiempo ya se venía advirtiendo de intrusiones en la red
+
 
 ## 4. eBay
 
@@ -75,7 +77,7 @@ Dicho esto, los usuarios de eBay ahora están particularmente sujetos a ataques 
 
 Mark Carges, director de tecnología de eBay, dijo que la empresa descubrió la infracción después de notar varios comportamientos inusuales en la red de la empresa. Esencialmente, eBay detectó anomalías (actividades estadísticamente separadas del comportamiento normal) en el uso de su red.
 
-### Conclusión
+
 
 ## 5. Sony PlayStation Network
 
@@ -87,7 +89,6 @@ Este ataque fue motivado por la ira por la demanda de Sony contra un pirata info
 
 Entre el 17 y el 19 de abril, una persona no identificada hasta ahora obtuvo acceso ilegal a los servidores PSN de Sony en San Diego, California, al piratear un servidor de aplicaciones detrás de un servidor web y dos firewalls. Según el director de información de Sony, Shinji Hajesima, el ataque se disfrazó como una compra, por lo que no levantó ninguna señal de alerta de inmediato.
 
-### Conclusión
 
 ## 6. Target
 
@@ -103,7 +104,6 @@ Según Krebs, fuentes cercanas a la investigación dijeron que los atacantes acc
 
 Los piratas primero probaron el malware de robo de datos en una pequeña cantidad de cajas registradoras y luego, después de determinar que el software funcionaba, lo cargaron en la mayoría de los sistemas POS de Target.
 
-### Conclusión
 
 ## 7. AOL
 
@@ -111,7 +111,6 @@ En 2006, el departamento de investigación de AOL publicó accidentalmente un ar
 
 El archivo se eliminó rápidamente, sin embargo, la información se reflejó y se difundió por Internet. Aunque los usuarios no se identificaron explícitamente, las listas numéricas los relacionaron con las consultas de búsqueda, lo que resultó en que las personas pudieran identificar implícitamente a los usuarios y su historial de búsqueda.
 
-### Conclusión
 
 ## 8. The HomeDepot
 
@@ -122,19 +121,20 @@ El 8 de septiembre de 2014, Home Depot emitió un comunicado indicando que los s
 Home Depot fue una de las muchas víctimas de una violación de datos minoristas en 2014. Lo desafortunado es la forma en que el atacante se infiltró en las redes POS y cómo el
 Los atacantes pudieron robar los datos de la tarjeta de pago, fueron los mismos métodos utilizados en la violación de datos objetivo. Los atacantes pudieron obtener acceso a uno de los entornos de proveedores de Home Depot utilizando las credenciales de inicio de sesión de un proveedor externo. Luego explotaron una vulnerabilidad de día cero en Windows, lo que les permitió pasar del entorno específico del proveedor al entorno corporativo de Home Depot.
 
-### Conclusión
 
 ## 9. Yahoo
 
-En 2016, el equipo de seguridad de Yahoo descubrió que los piratas informáticos rusos habían obtenido sus nombres de usuario, direcciones de correo electrónico, números de teléfono, fechas de nacimiento, contraseñas y preguntas/respuestas de seguridad de al menos 500 millones de cuentas de Yahoo.
+En 2013, el equipo de seguridad de Yahoo descubrió que los piratas informáticos rusos habían obtenido sus nombres de usuario, direcciones de correo electrónico, números de teléfono, fechas de nacimiento, contraseñas y preguntas/respuestas de seguridad de al menos 500 millones de cuentas de Yahoo.
 
-El 22 de septiembre de 2016, Yahoo finalmente reveló la violación de datos de 2014 a Verizon y en un comunicado de prensa adjunto a un Formulario 8-K. La divulgación de Yahoo fijó el número de usuarios de Yahoo afectados en 500 millones.
+El 22 de septiembre de 2014, Yahoo finalmente reveló la violación de datos de 2013 a Verizon y en un comunicado de prensa adjunto a un Formulario 8-K. La divulgación de Yahoo fijó el número de usuarios de Yahoo afectados en 500 millones.
 
 ![img](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/Exp-Yahoo.png?raw=true)
 
-Desde septiembre de 2016, Yahoo ha revisado dos veces su divulgación de violación de datos. En diciembre de 2016, Yahoo reveló que los piratas informáticos habían robado datos de mil millones de usuarios de Yahoo en agosto de 2013 y también habían falsificado cookies que permitirían a un intruso acceder a cuentas de usuario sin proporcionar una contraseña válida en 2015 y 2016.
+Desde septiembre de 2013, Yahoo ha revisado dos veces su divulgación de violación de datos. En diciembre de 2013, Yahoo reveló que los piratas informáticos habían robado datos de mil millones de usuarios de Yahoo en agosto de 2013 y también habían falsificado cookies que permitirían a un intruso acceder a cuentas de usuario sin proporcionar una contraseña válida en 2012 y 2013.
 
 ### Conclusión
+
+La mejor forma de protegerse de phishing es mirando detenidamente los dominios ya de sitios web o dominios de correo ya que siempre serán modificadas ciertas letras o añadir símbolos para pasar desapercibidos.
 
 ## 10. DHS & FBI
 
