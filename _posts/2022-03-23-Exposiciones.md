@@ -164,7 +164,7 @@ La cuenta requería solo una única contraseña y no tenía verificación de "do
 
 Los correos electrónicos enviados y recibidos por los 244 000 empleados de Deloitte se almacenaron en el servicio en la nube de Azure, proporcionado por Microsoft. Este es el equivalente de Microsoft al servicio web de Amazon y la plataforma en la nube de Google.
 
-![[Exp-Deloitte.png]]
+![Exp-Deloitte.png](https://github.com/DesiAPG/desiapg.github.io/blob/master/_posts/imgs/Exp-Deloitte.png?raw=true)
 
 ### Conclusión
 
