@@ -1,10 +1,9 @@
 ---
-title: Contact
+title: Contactame
 layout: page
 ---
 
-You can always contact the creator of this theme via [Twitter](https://twitter.com/_SupunKavinda).
+* Puede contactarme via:  [Twitter](https://twitter.com/akatunaso).
 
-If you need help with Jekyll, ask questions on [Jekyll Talk](https://talk.jekyllrb.com/).
+* Puede ver mi proyectos: [GitHub](https://github.com/4akatun).
 
-(Change this by editing `contact.md` file)

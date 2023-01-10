@@ -1,5 +1,6 @@
-title: Leaf Blog
-iconURL: assets/default-icon.png
+title: 4akatun -> El Blog Cafetero...
+iconURL: assets/cafe.png
+theme: jekyll-theme-leaf
 
 
 # for a clean URL
@@ -14,5 +15,5 @@ plugins:
  - jekyll-seo-tag
 
 ### comments & analytics
-hyvor_talk_website_id: 14
-google_analytics: UA-NNNNNNNN-N
+#hyvor_talk_website_id: 14
+#google_analytics: UA-NNNNNNNN-N
