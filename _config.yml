@@ -6,8 +6,8 @@ iconURL: assets/default-icon.png
 permalink: :slug
 
 social:
-  twitter: _SupunKavinda
-  github: SupunKavinda
+  twitter: akatunaso
+  github: 4akatun
 
 plugins:
  - jekyll-feed
