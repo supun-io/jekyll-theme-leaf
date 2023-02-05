@@ -2,7 +2,7 @@
 
 👇👇
 
-[Preview Theme](https://supunkavinda.github.io/jekyll-theme-leaf/) 
+[Preview Theme](https://supun-io.github.io/jekyll-theme-leaf/) 
 
 Jekyll Theme Leaf is a very simple yet beautiful theme created by [Supun Kavinda](https://twitter.com/_SupunKavinda). It is designed for those who love dark sites.
 
