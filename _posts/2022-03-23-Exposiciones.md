@@ -13,7 +13,7 @@ author: Duvan Marin
 
 El día 9 de diciembre de 2014 el grupo de hackers "Guardians of Peace" relveló que había publicado miles de documentos de los ejecutivos de Sony pictures, alrededor de 100TB de datos fueron filtrados por este grupo.
 
-Dentro de estas 100TB de documentos y archivos se encontraban 
+Dentro de estas 100TB de datos y archivos se encontraban 
 * Peliculas lo cual ocasionó que perdieran muchas entradas el día de estreno
 * Salarios desiguales de los empleados
 * Información personal de los empleados
